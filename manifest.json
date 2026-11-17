@@ -1,0 +1,10 @@
+{
+    "display_name": "st-chatu8 左上角Tag入口(补丁)",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "yiketaiyang123",
+    "version": "1.0.0",
+    "homePage": "https://github.com/yiketaiyang123/st8-zhihuiji"
+}
